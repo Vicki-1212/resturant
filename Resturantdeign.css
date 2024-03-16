@@ -1,0 +1,274 @@
+/* Nav Bar Section */
+
+.logo {
+    height:60px;
+    width:70px;
+}
+#navitem1 {
+    font-family:'Times New Roman', Times, serif;
+    color:navy;
+    font-weight:bold;
+}
+#navitem2 {
+    font-family:'Times New Roman', Times, serif;
+    color:navy;
+    font-weight:bold;
+}
+#navitem3 {
+    font-family:'Times New Roman', Times, serif;
+    color:navy;
+    font-weight:bold;
+}
+#navitem4 {
+    font-family:'Times New Roman', Times, serif;
+    color:navy;
+    font-weight:bold;
+}
+
+/* Banner Section */
+
+.banner-section-bg-container {
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height:100vh;
+    background-size:cover;
+}
+.banner-section-heading {
+    color:white;
+    font-size:40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:400;
+}
+.banner-section-paragraph {
+    color:lightgrey;
+    font-size:25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.button {
+    color:white;
+    background-image:linear-gradient(#d0b200, #a58d00);
+    height:35px;
+    width:100px;
+    border-width:0px;
+    border-radius:8px;
+    margin-right:10px;
+    font-weight:500;
+}
+.outline-button {
+    color:gold;
+    background-color:transparent;
+    height:35px;
+    width:100px;
+    border-color:gold;
+    border-width:2px;
+    border-radius:8px;
+}
+
+/* Why Choose Us Section */
+
+.wcu-section {
+    background-color:#f9fbfe;
+}
+.wcu-heading {
+    color:#183b56;
+    font-size:30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wcu-paragraph {
+    color:#5a7184;
+    font-size:15px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.wcu-card {
+    background-color:white;
+    text-align:center;
+    border-color:#e5eaf4;
+    border-width:1px;
+    border-style:solid;
+    border-radius:16px;
+
+}
+.wcu-card-image {
+    height:80px;
+    width:80px;
+}
+.wcu-card-heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:24px;
+    color:#323f4b;
+    font-weight:600;
+}
+.wcu-card-paragraph {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    color: #7b8794;
+}
+.offers {
+    font-weight: bold;
+    font-style:italic;
+    color:#323f4b;
+}
+
+/* Explore Menu  Section */
+
+.explore-menu-section {
+    background-color:white;
+}
+
+.explore-menu-heading {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:30px;
+    color:#183b56;
+    font-weight:bold;
+}
+
+.menu-item-image {
+    border-radius:16px;
+}
+
+.menu-item-heading {
+    font-size:18px;
+    color:#323f4b;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.menu-item-link {
+    color:goldenrod;
+    font-size:18px;
+}
+
+.menu-item-card {
+    border-radius:16px;
+}
+
+/* Healthy Food Section */
+
+.Healthyfood-section {
+    background-color:white;
+}
+.healthyfood-section-image {
+    height:270px;
+}
+.healthyfood-section-heading {
+    color:#183b56;
+    font-size:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:600;
+}
+.healthyfood-section-paragraph {
+    color:#5a7184;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:18px;
+}
+.button {
+    color:white;
+    background-color:rgb(220, 186, 13);
+    border-width:0px;
+    height:40px;
+    width:110px;
+    border-radius: 10px;
+    margin-right:10px;
+}
+
+/* Delivery and Payment Section */
+
+.delivery-payment-section {
+    background-color:white;
+}
+
+.delivery-payment-section-image {
+    height:270px;
+}
+.delivery-payment-section-heading {
+    color:#183b56;
+    font-size:25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:600;
+}
+.delivery-payment-section-paragraph {
+    color:#5a7184;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+}
+.payment-image {
+    height:50px;
+    width:50px;
+    margin:10px;
+}
+
+/* Thanking the customer Section */
+
+.thanking-customer-section {
+    background-image:radial-gradient(#fff8db, #fae38c)
+}
+.thanking-customer-heading {
+    color: #183b56;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+    font-weight:700;
+}
+.thanking-customer-paragraph {
+    color:#5a7184;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:20px;
+}
+.thanking-customer-image {
+    width:270px;
+    margin-bottom:20px;
+}
+
+.thanking-customer-section-modal-title {
+    color:#d0b200;
+}
+
+/* Follow Us Section*/
+
+.follow-us-section {
+    background-color:white;
+}
+.follow-us-heading {
+    color:#183b56;;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:40px;
+    font-weight:bold;
+}
+
+.icon {
+    color:#d0b200;
+    font-size:45px;
+}
+.follow-us-icon-container {
+    background-color:#faf7e8;
+    border-radius:40px;
+    padding-top:22px;
+    padding-left:22px;
+    padding-right:16px;
+    padding-bottom:14px;
+    width:85px;
+    height:85px;
+    margin:20px;
+}
+
+
+/* Footer Section */
+
+.footer-section {
+    background-color:#183b56;
+
+}
+.footer-image {
+    height:100px;
+    width:100px;
+}
+.footer-section-heading {
+    color:#f9fbfe;
+    font-size:20px;
+    padding:20px;
+}
+.footer-section-paragraph {
+    color:#f9fbfe;
+    font-size:15px;
+}
